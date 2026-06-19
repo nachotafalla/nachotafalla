@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Nacho 👋
 
 Business Analytics student at **Universidad Carlos III de Madrid**, exploring data, finance, tech, and side projects one rabbit hole at a time.
