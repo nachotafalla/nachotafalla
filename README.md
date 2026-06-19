@@ -1,12 +1,12 @@
-# Hi, I'm Nacho 👋
+# Hey there! 😶‍🌫️
 
-Business Analytics student at **Universidad Carlos III de Madrid**, exploring data, finance, tech, and side projects one rabbit hole at a time.
+I'm Nacho, a business analytics student based in Spain.
 
-I like building projects that help me understand how data is used in real-world decisions, from fintech fraud analytics to small web apps.
+I've always had a passion for technology, and more recently the idea of how it drives society through business. I like exploring tech, finance, side projects, and the world one rabbit hole at a time.
+
+I've got a couple of projects for now, but I'll definately build more. Here they are:
 
 ---
-
-## 🚀 Featured Projects
 
 ### 🏦 Neobank Risk Intelligence
 
@@ -18,7 +18,6 @@ I used **SQL, Python, statistics, machine learning, time-aware validation, model
 
 📌 [View project](https://github.com/nachotafalla/neobank-risk-intelligence)
 
----
 
 ### 📺 Where Was I?
 
@@ -32,22 +31,9 @@ It uses **Python, SQLite, HTML/CSS, Jinja, and the TVMaze API** to help users tr
 
 ---
 
-## 🛠️ Tools I'm working with
-
-**Programming:** Python · SQL · R · C · HTML/CSS  
-**Data / Analytics:** pandas · scikit-learn · Excel · statistical analysis  
-**Other tools:** Flask · SQLite · GitHub · Figma · Canva · DaVinci Resolve
-
----
-
-## 🌱 Currently interested in
-
-Fintech · Product analytics · Fraud analytics · Business intelligence · Data analysis · Software projects
-
----
-
-## 📫 Connect
-
-- LinkedIn: [add your LinkedIn link here]
-- Email: nachotafalla@gmail.com
-```
+Fun Facts:
+ - **Hobbies:** gym, self-development, cinema, space
+ - I built my own PC from scratch when I was 12 years old.
+ - I started investing in financial markets in 2021.
+ - My dream is to live in New York for some years.
+ - Aliens definitely exist.
