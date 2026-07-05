@@ -8,6 +8,20 @@ I've got a couple of projects for now, but I'll definately build more. Here they
 
 ---
 
+### 🪨 Clearly
+
+A calm desktop journaling app focused on private reflection, simple writing, and optional AI-assisted thinking.
+
+Clearly is built around the idea that journaling should stay personal and user-led. AI can help you reflect, but it should never judge, diagnose, score, or define your thoughts for you.
+
+This is currently a **beta release**, so there may still be bugs, missing polish, and fixes needed.
+
+I built it using **Tauri, React, TypeScript, and Vite**, with a privacy-first and local-first product vision.
+
+**Tools:** Tauri · React · TypeScript · Vite · UI/UX · Product design
+
+📌 [View project](https://github.com/nachotafalla/clearly)
+
 ### 🏦 Neobank Risk Intelligence
 
 A fintech fraud analytics case study on **account-opening risk** and **manual review prioritization**.
