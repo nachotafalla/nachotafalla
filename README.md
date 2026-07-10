@@ -20,7 +20,7 @@ I built it using **Tauri, React, TypeScript, and Vite**, with a privacy-first an
 
 **Tools:** Tauri · React · TypeScript · Vite · UI/UX · Product design
 
-📌 [View project](https://github.com/nachotafalla/clearly)
+📌 [View project](https://clearlyjournal.com)
 
 ### 🏦 Neobank Risk Intelligence
 
