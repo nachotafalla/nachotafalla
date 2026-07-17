@@ -7,6 +7,17 @@ I've always had a passion for technology, and more recently the idea of how it d
 I've got a couple of projects for now, but I'll definately build more. Here they are:
 
 ---
+### 🌐 Opessocius
+
+A digital investment platform designed to bring portfolio management, financial learning, and investor support into one secure app.
+
+I'm building the mobile app and its backend with a strong focus on user privacy, secure authentication, protected financial data, and a clear experience for both investors and administrators.
+
+This project is **currently being built**, so its features, infrastructure, and security systems are still under active development.
+
+**Tools:** React Native · Expo · TypeScript · Firebase · Firestore · UI/UX · Backend development
+
+📌 [View project](https://opessocius.com)
 
 ### 🪨 Clearly
 
