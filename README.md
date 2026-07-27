@@ -43,6 +43,15 @@ I used **SQL, Python, statistics, machine learning, time-aware validation, model
 
 📌 [View project](https://github.com/nachotafalla/neobank-risk-intelligence)
 
+### 🌙 Dimmer
+
+An open-source Raycast extension that lets Mac users dim every connected display beyond its minimum hardware brightness.
+
+Dimmer uses a lightweight, click-through overlay and provides quick commands, assignable hotkeys, a brightness-style HUD, and a menu bar control. Everything runs locally and no usage data is collected.
+
+**Tools:** Raycast API · TypeScript · React · Swift · AppKit · macOS
+
+📌 [View project](https://github.com/nachotafalla/dimmer)
 
 ### 📺 Where Was I?
 
